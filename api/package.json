@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "a simple node API with postgres",
+  "main": "index.js",
+  "author": "Fabiano",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "eslint": "4.7.2",
+    "eslint-config-pagarme-base": "^2.0.0",
+    "eslint-plugin-import": "2.7.0"
+  }
+}
